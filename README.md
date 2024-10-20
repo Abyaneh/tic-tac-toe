@@ -16,6 +16,7 @@ This project is a C++ implementation of the classic Tic-Tac-Toe game. The game i
 
 ![Demonstration](https://github.com/Abyaneh/tic-tac-toe/blob/main/picture/Demonstration.jpg)
 
+[Back to Top](#table-of-contents)
 
 ## Features
 - **Turn-based gameplay**: Two players compete by taking alternate turns.
@@ -23,6 +24,8 @@ This project is a C++ implementation of the classic Tic-Tac-Toe game. The game i
 - **Dynamic game board**: The grid updates in real-time after each player’s move.
 - **Win detection**: The game checks for a winner after every move.
 - **Error handling**: Input validation ensures players cannot select an already-used cell.
+
+[Back to Top](#table-of-contents)
 
 ## Game Rules
 1. Players play on a 4x4 grid.
@@ -32,6 +35,8 @@ This project is a C++ implementation of the classic Tic-Tac-Toe game. The game i
 5. The game checks for three consecutive symbols in any direction (horizontal, vertical, diagonal).
 6. The game ends when one player wins, or all grid spaces are filled.
 
+[Back to Top](#table-of-contents)
+
 ## Code Structure
 - **game.cpp**: This is the main code file where the logic of the game is implemented.
   - **Functions**:
@@ -39,6 +44,8 @@ This project is a C++ implementation of the classic Tic-Tac-Toe game. The game i
     - `display_grid()`: Displays the current state of the game grid.
     - `is_duplicate()`: Ensures the player's selected number is valid and not previously chosen.
     - `play_game()`: Controls the flow of the game, alternating between players and checking for victory conditions.
+
+[Back to Top](#table-of-contents)
 
 ## How to Play
 1. Clone the repository:
@@ -59,11 +66,17 @@ This project is a C++ implementation of the classic Tic-Tac-Toe game. The game i
    ```
 5. Follow the instructions to play the game by entering numbers corresponding to grid positions.
 
+[Back to Top](#table-of-contents)
+
 ## Contributing
 Contributions to this project are welcome! Feel free to fork the repository and submit a pull request with your improvements or fixes.
 
+[Back to Top](#table-of-contents)
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Abyaneh/rotten_and_fresh/blob/main/LICENSE) file for details.
+
+[Back to Top](#table-of-contents)
 
 ---
 
