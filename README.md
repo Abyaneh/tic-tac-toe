@@ -76,7 +76,7 @@ This project is a C++ implementation of the classic Tic-Tac-Toe game. The game i
 Contributions to this project are welcome! Feel free to fork the repository and submit a pull request with your improvements or fixes.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Abyaneh/rotten_and_fresh/blob/main/LICENSE) file for details.
 
 ---
 
