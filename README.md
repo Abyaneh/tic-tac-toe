@@ -8,16 +8,13 @@
 3. [Game Rules](#game-rules)
 4. [Code Structure](#code-structure)
 5. [How to Play](#how-to-play)
-6. [Video Demonstration](#video-demonstration)
-7. [How to Run the Project](#how-to-run-the-project)
-8. [Contributing](#contributing)
-9. [License](#license)
+6. [Contributing](#contributing)
+7. [License](#license)
 
 ## Introduction
 This project is a C++ implementation of the classic Tic-Tac-Toe game. The game is designed for two players who take turns to input their moves, attempting to place their marks ('X' or 'O') on a 4x4 grid. The first player to get three marks in a row, either horizontally, vertically, or diagonally, wins the game.
 
 ![Demonstration](https://github.com/Abyaneh/tic-tac-toe/blob/main/picture/Demonstration.jpg)
-
 
 
 ## Features
@@ -61,20 +58,6 @@ This project is a C++ implementation of the classic Tic-Tac-Toe game. The game i
    ./game
    ```
 5. Follow the instructions to play the game by entering numbers corresponding to grid positions.
-
-## Video Demonstration
-[Click here](#) to watch a video demonstration of the Tic-Tac-Toe game in action.
-
-## How to Run the Project
-1. Make sure you have a C++ compiler installed.
-2. Compile the provided code:
-   ```bash
-   g++ game.cpp -o game
-   ```
-3. Run the game:
-   ```bash
-   ./game
-   ```
 
 ## Contributing
 Contributions to this project are welcome! Feel free to fork the repository and submit a pull request with your improvements or fixes.
