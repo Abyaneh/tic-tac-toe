@@ -16,7 +16,7 @@
 ## Introduction
 This project is a C++ implementation of the classic Tic-Tac-Toe game. The game is designed for two players who take turns to input their moves, attempting to place their marks ('X' or 'O') on a 4x4 grid. The first player to get three marks in a row, either horizontally, vertically, or diagonally, wins the game.
 
-![Demonstration](https://github.com/Abyaneh/Smart_Hospital/blob/main/Robotic%20movie%20and%20photos/Image%20Processing%20Group.png)
+![Demonstration](https://github.com/Abyaneh/tic-tac-toe/blob/main/picture/Demonstration.jpg)
 
 
 
