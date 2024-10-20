@@ -3,13 +3,13 @@
 # Tic-Tac-Toe Game
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Game Rules](#game-rules)
-4. [Code Structure](#code-structure)
-5. [How to Play](#how-to-play)
-6. [Contributing](#contributing)
-7. [License](#license)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Game Rules](#game-rules)
+- [Code Structure](#code-structure)
+- [How to Play](#how-to-play)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Introduction
 This project is a C++ implementation of the classic Tic-Tac-Toe game. The game is designed for two players who take turns to input their moves, attempting to place their marks ('X' or 'O') on a 4x4 grid. The first player to get three marks in a row, either horizontally, vertically, or diagonally, wins the game.
